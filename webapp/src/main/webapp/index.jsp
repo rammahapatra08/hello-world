@@ -2,37 +2,33 @@
 <html>
 <head>
      <meta charset="utf-8"/>
-     <title> HPE Session on Microservices</title>	
-</head>   
+     <h1>Session on Automating Kubernetes with Ansiblea dn Jenkins</h1>
+</head>
 <body>
-<img src="hpe.jpg" alt="Pic is missing" width="480" height="400"/>
-<p><strong>Contributers in Microservices</strong></p>
-<p>Ram </p>
-<p>Siva</p>
-				
-<h4 Jenkins </h4>								   
-     <header>
-           <hgroup>
-	   <h1> microservices </h1>     
-	   <h2> devops </h1>
-           </hgroup>
-     </header>
+
+<h2>Tools utilised for this Demo</h2>
+<p>GIT</p>
+<p>Jenkins</p>
+<p>Ansible</p>
+<p>Kubernetes</p>
      <section>
             <article>
-                    <h1> TYPES OF Devops Tools </h1>		
-			<div>
-			<h2> Ansible </h2>
-			<p style="color:Red">Configuration & Managament Tool</p>
-			</div>	
-			<!-- Below <video> syntax is for video play -->
-			<video width="400" height="400" controls autoplay loop>
-				<source src="video.mp4" type="video/mp4" />
-			</video>
+                    <h3 style="color:Red">WorkFlow</h3>
+                        <div>
+                        <p style="color:Blue">1.Change code and commit</p>
+                        <p style="color:Blue">2.Check DockerHub for new image</p>
+                        <p style="color:Blue">3.Check Jenkins for CI/CD job is triggred</p>
+                        <p style="color:Blue">4.Check if Kubernetes Deployment is created</p>
+                        </div>
+                        <!-- Below <video> syntax is for video play -->
+                        <video width="250" height="250" controls autoplay loop>
+                                <source src="video.mp4" type="video/mp4" />
+                        </video>
             </article>
      </section>
-     <footer> 
-	          <P>CopyRight© "Ram Mahapatra" </P>
-		  <P>For more info contact@:- 7795247043</P>
+     <footer>
+                  <h4 style="color:Green"><strong>GSD DCT TEAM</strong> </h6>
+                  <h5 style="color:Green">For more info contact@:- Mookaiah, Balasubramanian</h5>
      </footer>
 </body>
 </html>
