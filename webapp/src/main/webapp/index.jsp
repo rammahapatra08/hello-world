@@ -2,7 +2,7 @@
 <html>
 <head>
      <meta charset="utf-8"/>
-     <h1>Session on Automating Kubernetes with Ansiblea dn Jenkins</h1>
+     <h1>Session on Automating Kubernetes with Ansible and Jenkins</h1>
 </head>
 <body>
 
@@ -27,8 +27,8 @@
             </article>
      </section>
      <footer>
-                  <h4 style="color:Green"><strong>GSD DCT TEAM</strong> </h6>
-                  <h5 style="color:Green">For more info contact@:- Mookaiah, Balasubramanian</h5>
+                  <h4 style="color:Green"><strong>Microservices Expert Cmmunity</strong> </h6>
+                  <h5 style="color:Green">For more info contact@:- Kubernetes Focus Group</h5>
      </footer>
 </body>
 </html>
