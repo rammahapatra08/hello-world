@@ -9,8 +9,8 @@
 <h2>Tools utilised for this Demo</h2>
 <p>GIT </p>
 <p>Jenkins Pipeline</p>
-<p>Ansible</p>
-<p>Kubernetes</p>
+<p></p>
+<p></p>
      <section>
             <article>
                     <h3 style="color:Red">WorkFlow</h3>
