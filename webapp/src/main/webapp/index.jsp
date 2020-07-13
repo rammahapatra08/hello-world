@@ -28,7 +28,7 @@
      </section>
      <footer>
                   <h4 style="color:Green"><strong>HPE GSD DCT TEAM</strong> </h6>
-                  <h5 style="color:Green">For more info contact@:-GSD DCT TEAM</h5>
+                  <h5 style="color:Green">For more info contact@:-GSD DCT TEA is best</h5>
      </footer>
 </body>
 </html>
