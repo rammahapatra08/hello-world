@@ -2,7 +2,7 @@
 <html>
 <head>
      <meta charset="utf-8"/>
-     <h1>final Session on Automating Kubernetes with Ansible and Jenkins</h1>
+     <h1>final Session on Automating Kubernetes with Ansible and Jenkins done</h1>
 </head>
 <body>
 
