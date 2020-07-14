@@ -2,7 +2,7 @@
 <html>
 <head>
      <meta charset="utf-8"/>
-     <h1>Session on Automating Kubernetes with Ansible and Jenkins</h1>
+     <h1>final Session on Automating Kubernetes with Ansible and Jenkins</h1>
 </head>
 <body>
 
@@ -21,7 +21,7 @@
                         <p style="color:Blue">4.Check if Kubernetes Deployment is created</p>
                         </div>
                         <!-- Below <video> syntax is for video play -->
-                        <video width="250" height="250" controls autoplay loop>
+                        <video width="450" height="450" controls autoplay loop>
                                 <source src="video.mp4" type="video/mp4" />
                         </video>
             </article>
