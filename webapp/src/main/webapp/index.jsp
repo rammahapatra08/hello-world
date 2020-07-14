@@ -7,9 +7,9 @@
 <body>
 
 <h2>Tools utilised for this Demo</h2>
-<p>1. GIT </p>
-<p>Jenkins Pipeline</p>
-<p>Ansible</p>
+<p>1.GIT </p>
+<p>2.Jenkins Pipeline</p>
+<p>3.Ansible</p>
 <p></p>
      <section>
             <article>
